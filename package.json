@@ -2,8 +2,8 @@
   "name": "hello-graffiti",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
+    "start": "node -r graffiti/lib/register main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
