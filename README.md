@@ -1,1 +1,1 @@
-# hello-graffity
+# hello-graffiti
