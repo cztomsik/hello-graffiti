@@ -1,1 +1,7 @@
-# hello-graffity
+# hello-graffiti
+
+```
+npm i
+npm start
+```
+
