@@ -1,5 +1,5 @@
-const { getApp } = require('graffiti')
-const { document, window } = getApp().createWindow()
+const { createWindow } = require('graffiti')
+const { document, window } = createWindow()
 
 const el = document.createElement('div')
 el.appendChild(document.createTextNode('Hello'))
