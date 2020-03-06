@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "glfw-dylib": "github:cztomsik/node-glfw-dylib",
     "graffiti": "github:cztomsik/graffiti"
   }
 }
