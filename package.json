@@ -3,13 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "start": "node -r graffiti/lib/register main.js",
+    "start": "graffiti run index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "glfw-dylib": "github:cztomsik/node-glfw-dylib",
     "graffiti": "github:cztomsik/graffiti"
   }
 }
